@@ -1,2 +1,2 @@
-﻿aaa: 
-  bbb: "ccc"
+﻿config: 
+  info: "master branch: springcloud-config/config-test.yml version=1"
